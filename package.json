@@ -1,0 +1,11 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "graphql": "^16.6.0"
+  }
+}
